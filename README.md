@@ -1,5 +1,3 @@
-## WELCOME to my profile! 👋
-
 <h1 align="center">Hi 👋, I'm Chayutphong Dikham</h1>
 <h3 align="center">A developer, student, youtuber</h3>
 
