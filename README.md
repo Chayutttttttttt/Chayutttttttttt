@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/qwertyio_folk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qwertyio_folk" height="30" width="40" /></a>
+<a href="https://youtube.com/@qwertyio_folk?si=1A_S6mBMtkv8cu-u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qwertyio_folk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
