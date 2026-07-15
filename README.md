@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chayutphong Dikham</h1>
 <h3 align="center">A developer, student, youtuber</h3>
 
-- 🔭 I’m currently working on [sapa-web-app](https://github.com/Chayutttttttttt/sapa-web-app/tree/main#)
-
 - 🌱 I’m currently learning **framesworks, self learning, ai learning**
 
 - 💬 Ask me about **python ,react , etc..**
