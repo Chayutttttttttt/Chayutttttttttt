@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **framesworks, self learning, ai learning**
 
-- 👨‍💻 All of my projects are available at [https://chayutttttttttt.github.io/Portfolio/](https://chayutttttttttt.github.io/Portfolio/)
-
 - 💬 Ask me about **python ,react , etc..**
 
 - 📫 How to reach me **chayutphong951dikham@gmail.com**
